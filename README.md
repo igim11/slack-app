@@ -1,6 +1,6 @@
 # slack-app
 Features:
 
-Register and Login Account
-Create user-specific channels
-Direct message with other users
+1. Register and Login Account
+2. Create user-specific channels
+3. Direct message with other users
