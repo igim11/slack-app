@@ -85,7 +85,7 @@ function Chat() {
 
  
   const addMember = async () => {
-    const userName = prompt('Please enter email of user you want to send a message to')?.toString();
+    const userName = prompt('Please enter email of user you want to add to the channel')?.toString();
     let userId = [];
 
     if (userName) {
