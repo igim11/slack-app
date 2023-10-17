@@ -1,6 +1,6 @@
 # slack-app
 
-<slack-app-bice.vercel.app>
+<https://slack-app-igim11.vercel.app/>
 
 Features:
 
