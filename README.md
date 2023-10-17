@@ -1,6 +1,6 @@
 # slack-app
 
-slack-app-bice.vercel.app
+<slack-app-bice.vercel.app>
 
 Features:
 
